@@ -27,7 +27,7 @@ def run():
     projectiles = []
     boulders = []
 
-    score = 0
+    score = 0   
 
     def draw_frame():
         screen.blit(BACKGROUND_IMAGE, (0, 0))
